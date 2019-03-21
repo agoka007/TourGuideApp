@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_drinks">Drink</string>
+    <string name="category_foods">Food</string>
+    <string name="category_parks">Park</string>
+    <string name="category_shops">Shops</string>
+
+    <string name="park_1_name">Alexandra Park</string>
+    <string name="park_1_description">Alexandra Palace is the iconic North London venue that offers everything you need for an event, along with the best panoramic views of London.</string>
+    <string name="park_1_address">Alexandra Palace, Alexandra Palace Way, London N22 7AY</string>
+    <string name="park_1_time">Open 24 hours</string>
+    <string name="park_1_phone">020 8365 2121</string>
+    <string name="park_1_web">alexandrapalace.com</string>
+
+    <string name="park_2_name">Finsbury Park</string>
+    <string name="park_2_description">Urban park with American gardens, athletics track and boating lake.</string>
+    <string name="park_2_address">Harringay, London N4 1EE</string>
+    <string name="park_2_time">Open 24 hours</string>
+    <string name="park_2_phone">020 8489 1000</string>
+    <string name="park_2_web">thefriendsoffinsburypark.org.uk</string>
+
+    <string name="restaurant_1_name">Ezra\'s Kitchen</string>
+    <string name="restaurant_1_description">Ezra\'s Kitchen prides itself on serving rustic Italian cuisine coupled with a variety of other dishes from Europe. We pride ourselves in producing high-quality food as well as creating a memorable experience for our customers. </string>
+    <string name="restaurant_1_address">185A High Rd, Wood Green, London N22 6BA</string>
+    <string name="restaurant_1_time">8am-10pm</string>
+    <string name="restaurant_1_phone">020 8352 2486</string>
+    <string name="restaurant_1_web">ezraskitchen.co.uk</string>
+
+    <string name="restaurant_2_name">McDonald\'s</string>
+    <string name="restaurant_2_description">Classic, long-running fast-food chain known for its burgers, fries and shakes. </string>
+    <string name="restaurant_2_address">3, Hollywood green, 180 High Rd, Wood Green, London N22 6EJ</string>
+    <string name="restaurant_2_time">5am-1am</string>
+    <string name="restaurant_2_phone">020 8881 2138</string>
+    <string name="restaurant_2_web">mcdonalds.co.uk</string>
+
+    <string name="restaurant_3_name">Selale</string>
+    <string name="restaurant_3_description">Bright, simple dining room with tiled floors, for traditional menu of Turkish kebabs and meze. </string>
+    <string name="restaurant_3_address">1-2-3 Salisbury Promenade, Green Lanes, Harringay, London N8 0RX</string>
+    <string name="restaurant_3_time">8:30am-1am</string>
+    <string name="restaurant_3_phone">020 8800 1636</string>
+    <string name="restaurant_3_web">selale.co.uk</string>
+
+    <string name="drink_1_name">Phoenix Bar and Kitchen</string>
+    <string name="drink_1_description">With the best views of the city skyline and London’s biggest beer garden – you’ll find delicious, freshly made food and a great selection of drinks at the Phoenix Bar and Kitchen. A great place to relax and unwind every day from 11am-11pm.</string>
+    <string name="drink_1_address">Alexandra Palace Way, London N22 7AY</string>
+    <string name="drink_1_time">11am-11pm</string>
+    <string name="drink_1_phone">020 8365 2121</string>
+    <string name="drink_1_web">www.alexandrapalace.com/bar-and-kitchen/</string>
+
+    <string name="drink_2_name">The Prince</string>
+    <string name="drink_2_description">No description.</string>
+    <string name="drink_2_address">Alexandra Palace Way, London N22 7AY</string>
+    <string name="drink_2_time">4pm-11pm</string>
+    <string name="drink_2_phone">020 8888 6698</string>
+    <string name="drink_2_web">theprincen22.co.uk</string>
+
+    <string name="drink_3_name">The Starting Gate</string>
+    <string name="drink_3_description">Combining the best in British pub hospitality with individuality, character and quirky charm, The Starting Gate is just a stone’s throw from London’s iconic Alexandra Palace, at the original starting point of the historic Alexandra Park Racecourse.</string>
+    <string name="drink_3_address">Station Rd, Wood Green, London N22 7SS</string>
+    <string name="drink_3_time">12pm-11pm</string>
+    <string name="drink_3_phone">020 8889 9436</string>
+    <string name="drink_3_web">thestartinggate.co.uk</string>
+
+    <string name="drink_4_name">Pret A Manger</string>
+    <string name="drink_4_description">Pret creates handmade natural food avoiding all the obscure extras common to so much of the \'prepared\' and \'fast\' food on the market today.</string>
+    <string name="drink_4_address">23, High Rd, Wood Green, London N22 6YA</string>
+    <string name="drink_4_time">7am-19:30pm</string>
+    <string name="drink_4_phone">020 8889 1347</string>
+    <string name="drink_4_web">pret.co.uk</string>
+
+    <string name="shop_1_name">Lidl</string>
+    <string name="shop_1_description">Budget supermarket at The Mall Wood Green.</string>
+    <string name="shop_1_address">7-8, The Mall Wood Green, 88-96 High Rd, Wood Green, London N22 6HE</string>
+    <string name="shop_1_time">7am-10pm</string>
+    <string name="shop_1_phone">0800 977 7766</string>
+    <string name="shop_1_web">lidl.co.uk</string>
+
+    <string name="shop_2_name">Argos</string>
+    <string name="shop_2_description">UK-wide retailer at The Mall Wood Green.</string>
+    <string name="shop_2_address">15, 88-96 High Rd, Wood Green, London N22 6HE</string>
+    <string name="shop_2_time">9am-7pm</string>
+    <string name="shop_2_phone">0345 165 7420</string>
+    <string name="shop_2_web">argos.co.uk</string>
+
+    <string name="shop_3_name">Morrisons</string>
+    <string name="shop_3_description">Budget supermarket.</string>
+    <string name="shop_3_address">50 Parkland Rd, Wood Green, London N22 6ST</string>
+    <string name="shop_3_time">7am-11pm</string>
+    <string name="shop_3_phone">020 8881 4801</string>
+    <string name="shop_3_web">my.morrisons.com</string>
+
+</resources>
